@@ -57,3 +57,17 @@ hr {
     justify-content: center;
     margin-right: 650px;
 }
+#btn {
+    width: 100px;
+    height: 30px;
+    background-color: #139494;
+    color: white;
+    font-weight: bold;
+    border-radius: 8px;
+    cursor: pointer;
+    border: 2px solid #0d0d19;
+}
+#btn:hover {
+    background: linear-gradient(#139494, #116262,#a1c5c5);
+    border: 2px solid #49dd49;
+}
