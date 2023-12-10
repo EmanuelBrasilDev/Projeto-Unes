@@ -1,0 +1,59 @@
+#navbar {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(img/fundo2.png)
+}
+#logo {
+    margin-left: 240px;
+}
+#menu {
+    display: flex;
+    padding-right: 220px;
+}
+#menu li {
+    display: inline-block;
+    font-weight: bold;
+    font-size: 20px;
+    margin-top: 20px;
+}
+#menu a {
+    text-decoration: none;
+    color: black;
+}
+#menu {
+    position: relative;
+    margin-right: 80px;
+    list-style-type: none;
+}
+#itens-menu,
+#logotipo {
+    list-style-type: none;
+}
+#image-focus {
+    display: flex;
+    justify-content: center;
+}
+#content {
+    display: block;
+    margin-left: 290px;
+}
+#content p {
+    width: 76%;
+}
+#footer-content {
+    display: flex;
+    justify-content: center;
+    padding-right: 50px;
+    font-weight: bold;
+}
+hr {
+    margin-top: 30px;
+    width: 70%;
+    margin-inline-end: 1000px;
+    
+}
+#form-content {
+    display: flex;
+    justify-content: center;
+    margin-right: 650px;
+}
